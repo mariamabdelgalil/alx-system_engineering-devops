@@ -1,0 +1,10 @@
+#!/bin/bash
+
+# List files in the current directory
+ls -la
+
+# Change directory to the parent of the working directory and list files
+cd ..
+ls -la
+cd /boot
+ls -la
